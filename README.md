@@ -1,3 +1,3 @@
 # kairat
 
-A new Flutter project.
+FC Kairat app (not real)
