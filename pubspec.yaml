@@ -50,3 +50,10 @@ flutter:
           weight: 300
         - asset: fonts/proxima_nova/proxima-nova-thin.ttf
           weight: 100
+
+flutter_native_splash:
+  color: "#000000"
+  image: "assets/images/splash.png"
+  android: true
+  ios: true
+# dart run flutter_native_splash:create

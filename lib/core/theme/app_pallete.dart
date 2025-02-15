@@ -1,3 +1,5 @@
 import 'package:flutter/material.dart';
 
-class AppPallete {}
+class AppPallete {
+  static const Color backgroundColor = Colors.black;
+}
