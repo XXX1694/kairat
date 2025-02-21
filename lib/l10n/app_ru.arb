@@ -1,0 +1,25 @@
+{
+  "welcome_main_text1": "Get your ",
+  "welcome_main_text2": "live scores ",
+  "welcome_main_text3": "update in our app.",
+  "welcome_second_text": "Never miss a beat, live scores and breaking news.",
+  "start": "Start",
+
+  "mini_game": "Mini-game",
+  "standing": "Standing",
+  "live": "Live",
+  "news": "News",
+  "profile": "Profile",
+
+
+  "home": "Home",
+  "away": "Away",
+  "who_will_win": "Who will win?",
+  "draw": "Draw",
+  "fans_voated": "fans have voted",
+  "live_stream": "Live stream",
+
+  "top_mini_game": "Top mini-game",
+  "top_scorers": "Top scorers",
+  "top_assists": "Top assists"
+}
