@@ -5,7 +5,7 @@ abstract class StandingsState {}
 class StandingsLoading extends StandingsState {}
 
 class StandingsLoaded extends StandingsState {
-  final List<Player> miniGameOthers; // остальные игроки
+  final List<Player> miniGameOthers;
   final List<Player> topScorers;
   final List<Player> topAssists;
   final String currentUserName;
